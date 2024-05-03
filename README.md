@@ -2,4 +2,4 @@
 O'qing o'rganing 
 
 ## 1) Androidda Intent haqida
-> Intent - bu boshqa dastur komponentidan so'rov yuborish (request) uchun foydalanish mumkin bo'lgan xabar almashish obyektidir.
+   Intent - bu boshqa dastur komponentidan so'rov yuborish `(request)` uchun foydalanish mumkin bo'lgan xabar almashish obyektidir.
